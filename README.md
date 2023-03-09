@@ -38,8 +38,8 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ---
 # 📈 GitHub Statistics
-[![Top languages embed](https://github-readme-stats.vercel.app/api/top-langs/?username=blazerman53&layout=compact&theme=nightowl&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats embed](https://github-readme-stats.vercel.app/api?username=blazerman53&layout=compact&theme=transparent&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages embed](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicdabrowski&layout=compact&theme=nightowl&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats embed](https://github-readme-stats.vercel.app/api?username=dominicdabrowski&layout=compact&theme=transparent&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 # 🎧 Now Playing
 [![Spotify recently played embed](https://spotify-recently-played-readme.vercel.app/api?user=blazerman53&count=1)](https://open.spotify.com/user/blazerman53)
